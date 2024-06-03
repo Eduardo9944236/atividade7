@@ -33,3 +33,7 @@ nav {
 ul,li {
     list-style: none;
 }
+
+ main {
+    padding: 16px;
+ }
